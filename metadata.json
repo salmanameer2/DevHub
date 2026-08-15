@@ -1,0 +1,6 @@
+{
+  "name": "Dev Hub Pro",
+  "description": "A curated directory of developer tools, resources, design assets, and AI utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
